@@ -1,0 +1,5 @@
+The part of the lyrics after "A Rockstar knows," is program code written in Rockstar. The code can be executed here:
+
+https://codewithrockstar.com/online
+
+The program output 4.1925 is the solution.
