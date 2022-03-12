@@ -1,0 +1,7 @@
+Solved by hand. 
+
+Screen: 78
+Mouse: 38
+Headphones: 11
+
+Solution is 783811.
