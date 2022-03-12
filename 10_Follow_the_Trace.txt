@@ -1,0 +1,16 @@
+No coding required.
+
+Check out the intern's blog:
+https://coding-challenge.festo.com/blog/
+
+The link to the "screen" is wrong, so manually address it:
+
+https://coding-challenge.festo.com/blog/images/screen.jpg
+
+In the picture, we can see a note on the monitor giving the first part (fin-der-) of a github account. In the "mouse and keyboard" picture, we can find the second part (lohn).
+
+https://coding-challenge.festo.com/blog/images/mouse_and_keyboard.jpg
+
+So we have a hint to the github account "fin-der-lohn". This user has a repository "coding-challenge2020" which only contains a readme-file. The latest commit does not provide any useful information but there is another commit which provides the solution. The solution is 1337potato.
+
+https://github.com/fin-der-lohn/coding-challenge2020/commit/8248eec3601e7fe1baf3985916f84fc70f00a34f
